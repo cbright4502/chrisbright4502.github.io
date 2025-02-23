@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/money toilet paper.jpg
 title: "Down The Drain"
 date: 2025-23-02
 published: true
