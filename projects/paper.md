@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/paperworx.png
 title: "Paperworx"
 date: 2025-03-01
 published: true
