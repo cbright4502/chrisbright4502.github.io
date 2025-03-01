@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/Mescreenshot.png
 title: "MyIndex"
 date: 2025-02-01
 published: true
